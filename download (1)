@@ -1,0 +1,7 @@
+*.b64
+*.token
+*.key
+*.seed
+.env
+.auth/
+private/

@@ -10,3 +10,13 @@ services:
         value: "10000"
       - key: VOLTARIS_AUTH_STATE_B64
         sync: false
+      - key: VOLTARIS_ADMIN_PUBLIC_KEY
+        sync: false
+      - key: VOLTARIS_DB_URL
+        sync: false
+      - key: VOLTARIS_DB_USER
+        sync: false
+      - key: VOLTARIS_DB_PASSWORD
+        sync: false
+      - key: VOLTARIS_ACCOUNT_RELEASE
+        sync: false
